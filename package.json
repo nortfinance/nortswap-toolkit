@@ -2,7 +2,7 @@
   "name": "nortswap-toolkit",
   "version": "1.0.0",
   "description": "nortswap frontend packages",
-  "private": true,
+  "private": true, 
   "workspaces": [
     "packages/*"
   ],
