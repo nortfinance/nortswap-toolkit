@@ -9,4 +9,5 @@ export default {
     { file: pkg.module, format: "es" },
   ],
   plugins: [url(), typescript()],
+  external: ['react', 'styled-components', 'styled-system', 'react-dom', 'react-popper', 'lodash/uniqueId', 'lodash', 'lodash/noop', 'lodash/debounce', 'lodash/get', 'lodash/throttle', 'react-router-dom']
 };
