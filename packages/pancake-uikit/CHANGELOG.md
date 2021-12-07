@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.59.1](https://github.com/pancakeswap/pancake-toolkit/compare/@allnext/uikit@0.59.0...@allnext/uikit@0.59.1) (2021-12-07)
+
+
+### Features
+
+* **menu:** Nort Logo ([2dd48ed](https://github.com/pancakeswap/pancake-toolkit/commit/2dd48edca7f5731634bff4d99115f6324d3fcdf9))
+* **menu:** Nort Logo ([4b7070e](https://github.com/pancakeswap/pancake-toolkit/commit/4b7070e001361b29377f8f8848cab0bd072d2eb8))
+
+
+
+
+
 # 0.59.0 (2021-12-07)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/pancakeswap/pancake-toolkit/compare/@allnext/eslint-config-pancake@1.3.0...@allnext/eslint-config-pancake@1.3.1) (2021-12-07)
+
+
+### Features
+
+* **menu:** Nort Logo ([4b7070e](https://github.com/pancakeswap/pancake-toolkit/commit/4b7070e001361b29377f8f8848cab0bd072d2eb8))
+
+
+
+
+
 # 1.3.0 (2021-12-07)
 
 
