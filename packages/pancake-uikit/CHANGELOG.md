@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.59.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.2...@allnext/uikit@0.59.3) (2021-12-09)
+
+
+### Bug Fixes
+
+* **link:** Buy nt link footer ([3124074](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/31240744a95fb4d3388ae6f1eb225531e72a9afc))
+
+
+
+
+
 ## [0.59.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.1...@allnext/uikit@0.59.2) (2021-12-09)
 
 

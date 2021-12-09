@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.2...@allnext/eslint-config-pancake@1.3.3) (2021-12-09)
+
+
+### Bug Fixes
+
+* **link:** Buy nt link footer ([3124074](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/commit/31240744a95fb4d3388ae6f1eb225531e72a9afc))
+
+
+
+
+
 ## [1.3.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.1...@allnext/eslint-config-pancake@1.3.2) (2021-12-09)
 
 
