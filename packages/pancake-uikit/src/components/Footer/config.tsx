@@ -79,7 +79,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/Nort83973702",
   },
   {
     label: "Telegram",
@@ -87,77 +87,31 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/pancakeswap",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/pancakeswap_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
+        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
       },
       {
         label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
+        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
       },
       {
         label: "Español",
-        href: "https://t.me/PancakeswapEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/pancakeswapjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/pancakeswapfr",
+        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
       },
       {
         label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
-      },
-      {
-        label: "Whale Alert",
-        href: "https://t.me/PancakeSwapWhales",
+        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
       },
     ],
   },
   {
-    label: "Reddit",
-    icon: "Reddit",
-    href: "https://reddit.com/r/pancakeswap",
-  },
-  {
     label: "Instagram",
     icon: "Instagram",
-    href: "https://instagram.com/pancakeswap_official",
+    href: "https://instagram.com/nort.app",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "https://github.com/pancakeswap/",
-  },
-  {
-    label: "Discord",
-    icon: "Discord",
-    href: "https://discord.gg/pancakeswap",
+    href: "https://github.com/allnext/",
   },
 ];
 
