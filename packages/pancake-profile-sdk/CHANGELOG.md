@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/compare/@allnext/profile-sdk@0.4.1...@allnext/profile-sdk@0.4.2) (2021-12-09)
+
+
+### Bug Fixes
+
+* **theme:** Theme colors and dark logo ([8e5e9cb](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/commit/8e5e9cbf50391cfc155ed121dcd2b7d9282b0646))
+
+
+
+
+
 ## [0.4.1](https://github.com/pancakeswap/pancake-toolkit/compare/@allnext/profile-sdk@0.4.0...@allnext/profile-sdk@0.4.1) (2021-12-07)
 
 

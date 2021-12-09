@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.59.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.1...@allnext/uikit@0.59.2) (2021-12-09)
+
+
+### Bug Fixes
+
+* **theme:** Theme colors and dark logo ([8e5e9cb](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/8e5e9cbf50391cfc155ed121dcd2b7d9282b0646))
+
+
+
+
+
 ## [0.59.1](https://github.com/pancakeswap/pancake-toolkit/compare/@allnext/uikit@0.59.0...@allnext/uikit@0.59.1) (2021-12-07)
 
 
