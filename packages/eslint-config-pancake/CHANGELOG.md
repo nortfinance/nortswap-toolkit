@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.3...@allnext/eslint-config-pancake@1.3.4) (2021-12-16)
+
+
+### Bug Fixes
+
+* **style:** New dark primary color ([13f756d](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/commit/13f756dfb48ebbf49193c987b2e419c101f040b7))
+
+
+
+
+
 ## [1.3.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.2...@allnext/eslint-config-pancake@1.3.3) (2021-12-09)
 
 
