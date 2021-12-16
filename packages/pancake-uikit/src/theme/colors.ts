@@ -35,7 +35,7 @@ export const lightColors: Colors = {
   tertiary: "#EFF4F5",
   text: "#280D5F",
   textDisabled: "#BDC2C4",
-  textSubtle: "#7A6EAA",
+  textSubtle: "#FDAB32",
   disabled: "#E9EAEB",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #E5FDFF 0%, #F3EFFF 100%)",
@@ -51,6 +51,7 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...additionalColors,
+  primary: baseColors.primaryBright,
   secondary: "#FDAB32",
   background: "#08060B",
   backgroundDisabled: "#3c3742",
@@ -67,7 +68,7 @@ export const darkColors: Colors = {
   tertiary: "#353547",
   text: "#F4EEFF",
   textDisabled: "#666171",
-  textSubtle: "#B8ADD2",
+  textSubtle: "#FDAB32",
   disabled: "#524B63",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
