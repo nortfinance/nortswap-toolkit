@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.4...@allnext/eslint-config-pancake@1.3.5) (2021-12-20)
+
+
+### Features
+
+* **spinner:** New spinner svg ([55a091a](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/commit/55a091af5e3109fd8d24028280f9f09705d6e954))
+
+
+
+
+
 ## [1.3.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.3...@allnext/eslint-config-pancake@1.3.4) (2021-12-16)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.59.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.4...@allnext/uikit@0.59.5) (2021-12-20)
+
+
+### Features
+
+* **spinner:** New spinner svg ([55a091a](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/55a091af5e3109fd8d24028280f9f09705d6e954))
+
+
+
+
+
 ## [0.59.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.3...@allnext/uikit@0.59.4) (2021-12-16)
 
 
