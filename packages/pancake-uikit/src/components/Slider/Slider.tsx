@@ -45,7 +45,7 @@ const Slider: React.FC<SliderProps> = ({
       <BunnyButt disabled={disabled} />
       <BunnySlider>
         <BarBackground disabled={disabled} />
-        <BarProgress style={{ width: progressWidth }} disabled={disabled} />
+        <BarProgress style={{ width: progressWidth }} disabled={disabled} isMax={isMax} />
         <StyledInput
           name={name}
           type="range"
