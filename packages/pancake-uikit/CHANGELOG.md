@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.59.6](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.5...@allnext/uikit@0.59.6) (2022-01-08)
+
+
+### Bug Fixes
+
+* **Slider:** New slider image ([a1056bc](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/a1056bcb360b389beff09ff8499985092a8dfb1d))
+
+
+
+
+
 ## [0.59.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.4...@allnext/uikit@0.59.5) (2021-12-20)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.6](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/compare/@allnext/profile-sdk@0.4.5...@allnext/profile-sdk@0.4.6) (2022-01-08)
+
+
+### Bug Fixes
+
+* **Slider:** New slider image ([a1056bc](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/commit/a1056bcb360b389beff09ff8499985092a8dfb1d))
+
+
+
+
+
 ## [0.4.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/compare/@allnext/profile-sdk@0.4.4...@allnext/profile-sdk@0.4.5) (2021-12-20)
 
 

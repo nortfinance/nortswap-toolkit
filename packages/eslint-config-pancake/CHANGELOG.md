@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.6](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.5...@allnext/eslint-config-pancake@1.3.6) (2022-01-08)
+
+
+### Bug Fixes
+
+* **Slider:** New slider image ([a1056bc](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/commit/a1056bcb360b389beff09ff8499985092a8dfb1d))
+
+
+
+
+
 ## [1.3.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.4...@allnext/eslint-config-pancake@1.3.5) (2021-12-20)
 
 
