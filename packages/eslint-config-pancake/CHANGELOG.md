@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.7](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.6...@allnext/eslint-config-pancake@1.3.7) (2022-04-29)
+
+
+### Bug Fixes
+
+* Link to plataform ([701b57f](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/commit/701b57faa0012fad9ada1c53f6b37f92b786aeec))
+
+
+
+
+
 ## [1.3.6](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake/compare/@allnext/eslint-config-pancake@1.3.5...@allnext/eslint-config-pancake@1.3.6) (2022-01-08)
 
 

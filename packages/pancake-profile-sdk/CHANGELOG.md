@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.7](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/compare/@allnext/profile-sdk@0.4.6...@allnext/profile-sdk@0.4.7) (2022-04-29)
+
+
+### Bug Fixes
+
+* Link to plataform ([701b57f](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/commit/701b57faa0012fad9ada1c53f6b37f92b786aeec))
+
+
+
+
+
 ## [0.4.6](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/compare/@allnext/profile-sdk@0.4.5...@allnext/profile-sdk@0.4.6) (2022-01-08)
 
 
