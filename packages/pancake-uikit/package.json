@@ -1,6 +1,6 @@
 {
   "name": "@allnext/uikit",
-  "version": "0.59.7",
+  "version": "0.59.8",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -54,5 +54,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "237ed66cc4f0663b2a68ae5c1a0b4cef4a9f9c3f"
+  "gitHead": "364e4a8c06058f0287c5e5e0653bf7b766a97b4e"
 }

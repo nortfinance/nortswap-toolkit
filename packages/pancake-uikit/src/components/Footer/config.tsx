@@ -7,27 +7,19 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        href: "https://docs.nortswap.finance/contact-us",
       },
       {
         label: "Blog",
-        href: "https://pancakeswap.medium.com/",
+        href: "https://nortswap.medium.com/",
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "https://docs.nortswap.finance/contact-us/telegram",
       },
       {
-        label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
-      },
-      {
-        label: "—",
-      },
-      {
-        label: "Online Store",
-        href: "https://pancakeswap.creator-spring.com/",
-        isHighlighted: true,
+        label: "NT",
+        href: "https://docs.nortswap.finance/tokenomics/cake",
       },
     ],
   },
@@ -36,15 +28,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        href: "Support https://docs.nortswap.finance/contact-us/customer-support",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: "https://docs.nortswap.finance/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: "https://docs.nortswap.finance/get-started",
       },
     ],
   },
@@ -53,23 +45,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/pancakeswap",
+        href: "https://github.com/allnext",
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
-      },
-      {
-        label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
+        href: "https://docs.nortswap.finance",
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
-      },
-      {
-        label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        href: "https://docs.nortswap.finance/help/faq#is-nortswap-safe-has-nortswap-been-audited",
       },
     ],
   },
@@ -87,19 +71,19 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
+        href: "https://t.me/NortTokenOfficial",
       },
       {
         label: "Português",
-        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
+        href: "https://t.me/NortTokenOfficial",
       },
       {
         label: "Español",
-        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
+        href: "https://t.me/NortTokenOfficial",
       },
       {
         label: "Announcements",
-        href: "https://t.me/joinchat/6FpT_cW2fc5hODEx",
+        href: "https://t.me/NortTokenOfficial",
       },
     ],
   },
