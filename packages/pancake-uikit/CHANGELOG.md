@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.59.9](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.7...@allnext/uikit@0.59.9) (2022-08-26)
+
+
+### Bug Fixes
+
+* **social:** Telegram links ([64bde42](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/64bde42a04ce3577398c6a78f43a9b9357f91df8))
+
+
+
+
+
 ## [0.59.7](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@allnext/uikit@0.59.6...@allnext/uikit@0.59.7) (2022-04-29)
 
 
